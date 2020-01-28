@@ -27,10 +27,16 @@
 
         <div id="more-videos">
             <ul>
-                <li><a href="https://www.ibm.com/demos/search/?product=%22IBM%20Cloud%20Hyper%20Protect%20Crypto%20Services%22">IBM Cloud Hyper Protect Crypto Services</a></li>
-                <li><a href="https://www.ibm.com/demos/search/?product=%22IBM%20Cloud%20Hyper%20Protect%20Virtual%20Server%22">IBM Cloud Hyper Protect Virtual Servers</a></li>
+                {% for link in site.data.blogs %}
+                <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+                {% endfor %}
+
+                {% for link in site.data.podcasts %}
+                <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+                {% endfor %}
             </ul>
         </div>
+
 
     </div>
 
