@@ -42,10 +42,15 @@ body {
     padding: 1em;
 }
 
-iframe {
+.video-container {
     width: 80%;
-    height: 45%;
-    margin: 20% 10%;
+    height: 30em;
+    margin: 10% auto;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
 }
 
 #content p {
