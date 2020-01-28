@@ -1,8 +1,10 @@
 # ibm-hyper-protect.github.io
 
-Edit `index.html` to change the site, served on:
+A few-page site, mainly designed for ped use. As such, all content should be suitable for external audiences.
 
-[https://ibm-hyper-protect.github.io](https://ibm-hyper-protect.github.io)
+To add links to blogs, code patterns, etc., append to the relevant [`_data/`](_data/) file and send a PR.
+
+Live site: [https://ibm-hyper-protect.github.io](https://ibm-hyper-protect.github.io)
 
 ## How to run this locally
 
