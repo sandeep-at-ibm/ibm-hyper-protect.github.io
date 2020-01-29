@@ -57,7 +57,7 @@ iframe {
     margin: 1em 2em;
     font-weight: normal;
     font-size: 2.5em;
-    font-family: "IBM Plex Serif", Georgia;    
+    font-family: "IBM Plex Serif", Georgia;
 }
 
 #content h2 {
@@ -71,8 +71,6 @@ iframe {
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     grid-auto-rows: minmax(100px, auto);
 }
-
-
 
 #sidebar {
     grid-area: sidebar;
