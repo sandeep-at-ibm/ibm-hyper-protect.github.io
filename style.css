@@ -62,7 +62,10 @@ iframe {
 }
 
 #content h2 {
-    margin: 10%;
+    margin: 5% 10%;
+    border-bottom: 3px #fff solid;
+    width: 3%;
+    padding: 0 0 0.3em 0;
 }
 
 #collateral ul {
@@ -81,12 +84,15 @@ iframe {
 
 #sidebar h2 {
     font-size: 1em;
+    border-bottom: 3px #fff solid;
+    width: 27%;
+    padding: 1em 0 0.3em 0;
 }
 
-h3 {
+#sidebar h3 {
     font-size: 1em;
     font-style: italic;
-    margin-left: 1em;
+    margin: 2em 0 1em 1em;
 }
 
 ul {
