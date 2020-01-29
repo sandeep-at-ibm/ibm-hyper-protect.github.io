@@ -64,6 +64,16 @@ iframe {
     margin: 10%;
 }
 
+#collateral ul {
+    display: grid;
+    grid-gap: 0.5em;
+    margin: 10%;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-auto-rows: minmax(100px, auto);
+}
+
+
+
 #sidebar {
     grid-area: sidebar;
     background: #001d6c;
