@@ -92,8 +92,13 @@ li {
 }
 
 a {
-    color: #fa4d56;
+    color: #fff;
     text-decoration: none;
+}
+
+a:hover {
+    color: #fa4d56;
+    text-decoration: underline;
 }
 
 #footer {
