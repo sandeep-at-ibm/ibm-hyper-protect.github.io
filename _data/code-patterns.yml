@@ -1,2 +1,5 @@
 - title: "Disaster Donations"
   url: https://developer.ibm.com/technologies/systems/patterns/systems-create-a-secure-disaster-donations-website
+
+- title: "Secure a digital wallet in the public cloud"
+  url: https://developer.ibm.com/components/ibmz/patterns/secure-bitcoin-wallet-with-ibm-cloud-hyper-protect-virtual-servers
