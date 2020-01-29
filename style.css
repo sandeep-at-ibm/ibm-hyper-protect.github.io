@@ -60,6 +60,8 @@ iframe {
     font-family: "IBM Plex Serif", Georgia;    
 }
 
+#content h2 {
+    margin: 10%;
 }
 
 #sidebar {
@@ -68,7 +70,7 @@ iframe {
     padding: 1em;
 }
 
-h2 {
+#sidebar h2 {
     font-size: 1em;
 }
 
