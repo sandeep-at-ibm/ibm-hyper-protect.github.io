@@ -16,7 +16,7 @@ body {
 
 #title {
     grid-area: title;
-    background: #000;
+    background-color: #161616;
     font-size: 1.4em;
     padding: 0.5em 1em;
 }
@@ -40,6 +40,7 @@ body {
 #content {
     grid-area: content;
     padding: 1em;
+    background-color: #0f62fe;
 }
 
 .video-container {
@@ -74,7 +75,7 @@ iframe {
 
 #sidebar {
     grid-area: sidebar;
-    background: #001d6c;
+    background-color: #393939;
     padding: 1em;
 }
 
@@ -111,7 +112,7 @@ a:hover {
 
 #footer {
     grid-area: footer;
-    background: #000;
+    background-color: #161616;
     padding: 0.5em 1em;
 }
 
