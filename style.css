@@ -3,7 +3,7 @@ body {
     grid-template-areas: "title title"
                          "content sidebar"
                          "footer footer";
-    grid-template-rows: 3em auto 2em;
+    grid-template-rows: 2.8em auto 2em;
     grid-template-columns: 70% 30%;
 
     background: #001141;
@@ -17,20 +17,25 @@ body {
 #title {
     grid-area: title;
     background-color: #161616;
-    font-size: 1.4em;
-    padding: 0.5em 1em;
+    padding: 0.6em 1em;
 }
 
 #title h1 {
-    font-size: 1em;
+    font-size: 1.2em;
+    font-weight: normal;
     display: inline;
     width: 45%;
     float: left;
     margin: 0;
 }
 
-#title span {
+h1 span {
     font-weight: bold;
+}
+
+#title>span {
+    font-weight: normal;
+    font-size: 1.2em;
     margin: 0;
     width: 45%;
     text-align: right;
@@ -57,13 +62,14 @@ iframe {
 #content #serif {
     margin: 2em auto 1em auto;
     font-weight: normal;
+    width: 80%;
     font-size: 2.5em;
     font-family: "IBM Plex Serif", Georgia, serif;
     max-width: 18em;
 }
 
 #content h2 {
-    margin: 5% 10%;
+    margin: 5% 10% 3% 10%;
 }
 
 h2:after {
@@ -81,10 +87,16 @@ h2:after {
 
 #collateral ul {
     display: grid;
-    grid-gap: 0.5em;
-    margin: 10%;
+    grid-gap: 1em;
+    margin: 0 10% 3% 10%;
+    padding: 0;
     grid-template-columns: repeat(auto-fill, minmax(12em, 1fr));
     grid-auto-rows: minmax(100px, auto);
+}
+
+#collateral li {
+    margin: 0;
+    padding: 0;
 }
 
 #sidebar {
