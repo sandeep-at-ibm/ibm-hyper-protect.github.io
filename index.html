@@ -88,6 +88,16 @@
             {% endfor %}
         </ul>
 
+        <h3>DBaaS</h3>
+
+        <ul>
+            {% for link in site.data.videos %}
+            {% if link.offering == "dbaas" %}
+            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+
         <h2>Tech Talks</h2>
 
         <ul>

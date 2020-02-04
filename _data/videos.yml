@@ -21,3 +21,15 @@
 - title: "Getting Started with IBM Cloud Hyper Protect Virtual Server"
   url: https://youtu.be/GlP-w-vsPmc
   offering: hpvs
+
+- title: "Get Started with IBM Cloud Hyper Protect DBaaS"
+  url: https://www.youtube.com/watch?v=WfTWzjYTgCs
+  offering: dbaas
+
+- title: "Data security and privacy using IBM Cloud Hyper Protect DBaaS"
+  url: https://www.youtube.com/watch?v=__IBP727IL8
+  offering: dbaas
+
+- title: "Secure cloud-based data with IBM Cloud Hyper Protect DBaaS"
+  url: https://www.youtube.com/watch?v=RLwlflTDDys
+  offering: dbaas
