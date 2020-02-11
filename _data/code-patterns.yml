@@ -1,4 +1,7 @@
-- title: "Disaster Donations"
+- title: "Create secure microservices writing to a consolidated database"
+  url: https://developer.ibm.com/patterns/create-a-secured-microservices-and-deploy-it-to-a-consolidated-database/
+
+- title: "Build and deploy a disaster donations website with end-to-end encryption"
   url: https://developer.ibm.com/technologies/systems/patterns/systems-create-a-secure-disaster-donations-website
 
 - title: "Secure a digital wallet in the public cloud"
