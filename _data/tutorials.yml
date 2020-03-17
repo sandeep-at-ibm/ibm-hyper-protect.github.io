@@ -9,3 +9,6 @@
 
 - title: "Deploy software to a private IBM Cloud Hyper Protect Virtual Server using IBM toolchain"
   url: https://developer.ibm.com/tutorials/deploy-software-to-private-hyper-protect-virtual-servers-using-ibm-toolchain/
+
+- title: "Create an Nginx reverse proxy across multiple backend servers"
+  url: https://developer.ibm.com/components/ibmz/tutorials/develop-a-website-with-different-frontend-and-api-backend-endpoints
