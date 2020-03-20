@@ -43,9 +43,6 @@
 - title: "Securing sensitive health data in times of disaster"
   url: https://developer.ibm.com/blogs/tech-times-disaster
   
-- title: "Protect sensitive data when disaster strikes and every second counts"
-  url: https://developer.ibm.com/blogs/keep-your-data-secure-when-disaster-strikes
-  
 - title: "IBM Cloud Brings the Most Open and Secure Public Cloud for Business"
   url: https://www.ibm.com/cloud/blog/announcing-new-public-cloud-capabilities
 
@@ -67,6 +64,9 @@
 - title: "Announcing the Industry’s Highest Certified Data Protection Level for VMware Workloads in the Cloud"
   url: https://www.ibm.com/cloud/blog/announcements/highest-certified-data-protection-level-for-vmware-workloads-in-the-cloud
 
+- title: "Protect sensitive data when disaster strikes and every second counts"
+  url: https://developer.ibm.com/blogs/keep-your-data-secure-when-disaster-strikes
+  
 - title: "Announcing IBM Cloud Hyper Protect Crypto Services – Hardware Security Module Services"
   url: https://www.ibm.com/cloud/blog/announcing-ibm-cloud-hyper-protect-crypto-services-hardware-security-module-services
 
@@ -81,15 +81,6 @@
   
 - title: "IBM Cloud Hyper Protect Crypto Services is Now Available on IBM Public Cloud"
   url: https://www.ibm.com/blogs/cloud-archive/2019/03/ibm-cloud-hyper-protect-crypto-services-is-now-available-on-ibm-public-cloud
-  
-- title: "IBM Cloud Hyper Protect DBaaS Delivers Complete Data Confidentiality - Beta announcement"
-  url: https://www.ibm.com/cloud/blog/announcements/ibm-cloud-hyper-protect-dbaas-delivers-complete-data-confidentiality
-  
-- title: "Announcing IBM Cloud Hyper Protect Crypto Services – BETA"
-  url: https://www.ibm.com/cloud/blog/announcements/announcing-ibm-cloud-hyper-protect-crypto-services-beta
-  
-- title: "Hyper Protect DBaaS – PostgreSQL Now Available - Experimental announcement"
-  url: https://www.ibm.com/cloud/blog/announcements/hyper-protect-dbaas-postgresql-now-available
   
 - title: "Hyper Protect DBaaS: the evolution of cloud databases"
   url: https://www.ibm.com/blogs/systems/hyper-protect-dbaas-evolution-cloud-databases
