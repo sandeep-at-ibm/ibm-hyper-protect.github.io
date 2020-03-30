@@ -23,7 +23,11 @@
   offering: hpvs
 
 - title: "Get Started with IBM Cloud Hyper Protect DBaaS"
-  url: https://www.youtube.com/watch?v=WfTWzjYTgCs
+  url: https://youtu.be/YzQdszTI4Zg
+  offering: dbaas
+
+- title: "IBM Cloud Hyper Protect DBaaS and Bring Your Own Key"
+  url: https://youtu.be/DwD_PFXjROM
   offering: dbaas
 
 - title: "Data security and privacy using IBM Cloud Hyper Protect DBaaS"
@@ -33,3 +37,12 @@
 - title: "Secure cloud-based data with IBM Cloud Hyper Protect DBaaS"
   url: https://www.youtube.com/watch?v=RLwlflTDDys
   offering: dbaas
+
+- title: "IBM THINK 2019: Introduction to Z as a Service"
+  url: https://www.ibm.com/events/think/watch/replay/120157283
+  
+- title: "IBM THINK 2019: IBM Cloud Hyper Protect family and Secure Service Container"
+  url: https://www.ibm.com/events/think/watch/replay/120171746
+  
+- title: "IBM THINK 2019: IBM Cloud security"
+  url: https://www.ibm.com/events/think/watch/replay/120118486

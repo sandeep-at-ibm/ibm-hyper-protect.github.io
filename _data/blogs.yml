@@ -28,9 +28,21 @@
 - title: "Gartner IT Symposium/Xpo 2019: Security and regulatory concerns with public cloud"
   url: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-it-symposiumxpo-2019-security-and-regulatory-concerns-with-public-cloud/
 
+- title: "IBM THINK 2019: Fueling Customer Success with VMware on the IBM Cloud"
+  url: https://www.ibm.com/cloud/blog/security-innovation-and-choice-for-vmware-on-ibm-cloud
+
 - title: "A Tale of Two Security Models"
   url: https://www.ibm.com/blogs/systems/a-tale-of-two-security-models
-
+  
+- title: "IBM Unveils New Offerings for Faster and More Secured Path to Hybrid Cloud"
+  url: https://newsroom.ibm.com/2019-02-12-IBM-Unveils-New-Offerings-for-Faster-and-More-Secured-Path-to-Hybrid-Cloud
+  
+- title: "IBM Cloud solution for highly regulated and business-critical workloads in a new secure and compliant hybrid architecture"
+  url: https://www.hytrust.com/blog/hytrust-ibm-cloud-secure-and-compliant-hybrid-architecture
+  
+- title: "Securing sensitive health data in times of disaster"
+  url: https://developer.ibm.com/blogs/tech-times-disaster
+  
 - title: "IBM Cloud Brings the Most Open and Secure Public Cloud for Business"
   url: https://www.ibm.com/cloud/blog/announcing-new-public-cloud-capabilities
 
@@ -52,5 +64,26 @@
 - title: "Announcing the Industry’s Highest Certified Data Protection Level for VMware Workloads in the Cloud"
   url: https://www.ibm.com/cloud/blog/announcements/highest-certified-data-protection-level-for-vmware-workloads-in-the-cloud
 
+- title: "Protect sensitive data when disaster strikes and every second counts"
+  url: https://developer.ibm.com/blogs/keep-your-data-secure-when-disaster-strikes
+  
+- title: "Announcing IBM Cloud Hyper Protect Crypto Services – Hardware Security Module Services"
+  url: https://www.ibm.com/cloud/blog/announcing-ibm-cloud-hyper-protect-crypto-services-hardware-security-module-services
+
 - title: "Announcing IBM Cloud Hyper Protect Virtual Servers"
   url: https://www.ibm.com/cloud/blog/announcements/announcing-ibm-cloud-hyper-protect-virtual-servers
+
+- title: "Announcing IBM Cloud Hyper Protect DBaaS for MongoDB - General Availability"
+  url: https://www.ibm.com/blogs/systems/announcing-ibm-cloud-hyper-protect-dbaas-for-mongodb
+  
+- title: "Announcing IBM Cloud Hyper Protect DBaaS for PostgreSQL and MongoDB - General Availability"
+  url: https://www.ibm.com/cloud/blog/announcements/announcing-ibm-cloud-hyper-protect-dbaas-postgresql-and-mongodb
+  
+- title: "IBM Cloud Hyper Protect Crypto Services is Now Available on IBM Public Cloud"
+  url: https://www.ibm.com/blogs/cloud-archive/2019/03/ibm-cloud-hyper-protect-crypto-services-is-now-available-on-ibm-public-cloud
+  
+- title: "Hyper Protect DBaaS: the evolution of cloud databases"
+  url: https://www.ibm.com/blogs/systems/hyper-protect-dbaas-evolution-cloud-databases
+  
+- title: "DBaaS + Security @ MongoDB World"
+  url: https://www.ibm.com/blogs/systems/dbaas-security-mongodb-world/
