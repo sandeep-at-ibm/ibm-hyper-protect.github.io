@@ -1,33 +1,39 @@
 - title: "Announcing BYOK/KYOK for IBM Cloud Hyper Protect DBaaS"
   url: https://www.ibm.com/cloud/blog/announcements/ibm-cloud-hyper-protect-dbaas
+  offering: ['hyper-protect', 'dbaas']
   
 - title: "ltree is Now Available in IBM Cloud Hyper Protect DBaaS"
   url: https://www.ibm.com/cloud/blog/announcements/itree-is-now-available-in-ibm-cloud-hyper-protect-dbaas
+  offering: ['hyper-protect', 'dbaas']
 
 - title: "The Best of IBM Z and LinuxONE in the public and private cloud"
   url: https://www.ibm.com/blogs/systems/the-best-of-ibm-z-and-linuxone-in-the-public-and-private-cloud/
+  offering: ['hyper-protect', 'hpcs', 'hpvs', 'dbaas']
 
 - title: "Pick a cloud platform that matches your hybrid cloud strategy, not the other way around"
   url: https://www.ibm.com/blogs/systems/pick-a-cloud-platform-that-matches-your-hybrid-cloud-strategy-not-the-other-way-around/
 
 - title: "Kenyan firm among 15 start-ups to benefit from first IBM project"
   url: https://www.standardmedia.co.ke/business/article/2001352851/kenyan-firm-among-15-start-ups-to-benefit-from-first-ibm-project
+  offering: ['hyper-protect', 'accelerator']
 
 - title: "The State of IBM Cloud Security: Think 2019"
   url: https://www.ibm.com/cloud/blog/cloud-security-right
+  offering: ['hyper-protect', 'hpcs', 'dbaas']
 
 - title: "Integrating Hybrid Cloud and Enterprise IT Infrastructure "
   url: https://www.ibm.com/blogs/systems/integrating-hybrid-cloud-and-enterprise-it-infrastructure/
 
 - title: "IBM Cloud Hyper Protect Services: Protect your organization from internal AND external threats"
   url: https://developer.ibm.com/blogs/hyper-protect-services-protect-your-org-from-internal-and-external-threats/
+  offering: ['hyper-protect', 'hpcs']
 
 - title: "Gartner IT Symposium/Xpo 2019: Security and regulatory concerns with public cloud"
   url: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-it-symposiumxpo-2019-security-and-regulatory-concerns-with-public-cloud/
 
 - title: "IBM THINK 2019: Fueling Customer Success with VMware on the IBM Cloud"
   url: https://www.ibm.com/cloud/blog/security-innovation-and-choice-for-vmware-on-ibm-cloud
-  offering: vmware
+  offering: ['think', 'vmware']
 
 - title: "A Tale of Two Security Models"
   url: https://www.ibm.com/blogs/systems/a-tale-of-two-security-models
@@ -38,12 +44,15 @@
   
 - title: "IBM Cloud solution for highly regulated and business-critical workloads in a new secure and compliant hybrid architecture"
   url: https://www.hytrust.com/blog/hytrust-ibm-cloud-secure-and-compliant-hybrid-architecture
+  offering: ['hyper-protect', 'hpcs']
   
 - title: "Securing sensitive health data in times of disaster"
   url: https://developer.ibm.com/blogs/tech-times-disaster
+  offering: ['hyper-protect', 'hpcs', 'hpvs', 'dbaas']
   
 - title: "IBM Cloud Brings the Most Open and Secure Public Cloud for Business"
   url: https://www.ibm.com/cloud/blog/announcing-new-public-cloud-capabilities
+  offering: ['hyper-protect', 'hpcs', 'hpvs', 'dbaas']
 
 - title: "IBM and Bank of America Team up on Public Cloud Aimed at Banks"
   url: https://www.wsj.com/articles/ibm-bank-of-america-team-up-on-public-cloud-aimed-at-banks-11573016461?shareToken=st1e3675a67a1941c1939cef801b3a1f25
@@ -59,10 +68,11 @@
 
 - title: "IBM Cloud – The Right Public Cloud for VMware Solutions"
   url: https://www.ibm.com/cloud/blog/the-right-public-cloud-for-vmware-solutions
-  offering: vmware
+  offering: ['vmware', 'hyper-protect', 'hpcs']
 
 - title: "New IBM Cloud Hybrid Architecture Designed for Your Security and Compliance-Readiness Needs "
   url: https://www.ibm.com/cloud/blog/new-ibm-cloud-secure-and-compliant-hybrid-architecture
+  offering: ['hyper-protect', 'hpcs']
 
 - title: "Announcing the Industry’s Highest Certified Data Protection Level for VMware Workloads in the Cloud"
   url: https://www.ibm.com/cloud/blog/announcements/highest-certified-data-protection-level-for-vmware-workloads-in-the-cloud
