@@ -21,3 +21,7 @@
 - title: "Create an Nginx reverse proxy across multiple backend servers"
   url: https://developer.ibm.com/components/ibmz/tutorials/develop-a-website-with-different-frontend-and-api-backend-endpoints
   offering: ['hyper-protect', 'hpcs', 'hpvs', 'dbaas']
+
+- title: "IBM Redbooks: Securing Your Critical Workloads with IBM Hyper Protect Services"
+  url: http://www.redbooks.ibm.com/abstracts/sg248469.html?Open
+  offering: ['hyper-protect']
