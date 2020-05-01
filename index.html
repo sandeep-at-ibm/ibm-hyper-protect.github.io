@@ -72,7 +72,7 @@
         <h3>Crypto Service</h3>
         <ul>
             {% for link in site.data.videos %}
-            {% if link.offering == "hpcs" %}
+            {% if link.offering contains "hpcs" %}
             <li><a href="{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
             {% endfor %}
@@ -82,7 +82,7 @@
 
         <ul>
             {% for link in site.data.videos %}
-            {% if link.offering == "hpvs" %}
+            {% if link.offering contains "hpvs" %}
             <li><a href="{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
             {% endfor %}
@@ -92,7 +92,7 @@
 
         <ul>
             {% for link in site.data.videos %}
-            {% if link.offering == "dbaas" %}
+            {% if link.offering contains "dbaas" %}
             <li><a href="{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
             {% endfor %}
