@@ -1,2 +1,12 @@
 exclude: [README.md]
-repository: ibm-hyper-protect/ibm-hyper-protect.github.io
+
+exclude:
+  - [README.md]
+  - [how-to-contribute.md]
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
