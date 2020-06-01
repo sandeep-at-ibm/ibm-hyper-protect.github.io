@@ -16,3 +16,5 @@ cache: bundler
 
 notifications:
   email: false
+
+exclude: [vendor]
