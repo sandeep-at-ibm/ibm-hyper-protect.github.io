@@ -1,4 +1,7 @@
 - title: "Think2020: World's First FSS Cloud"
-  pdffile: think2020-worlds-first-fss-cloud.pdf 
-  offering: ['hyper-protect', 'fss', 'think2020']
+  pdffile: ./pdfs-ppts-books/think2020-worlds-first-fss-cloud.pdf 
+  offering: ['hyper-protect', 'fss', 'think2020', 'pdf']
   
+- title: "TechU-2020: Hyper Protect Use Cases"
+  pdffile: ./pdfs-ppts-books/techu2020-hyperprotect-use-cases.pdf
+  offering: ['hyper-protect', 'pdf']
