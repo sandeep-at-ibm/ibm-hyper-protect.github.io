@@ -1,5 +1,5 @@
 rm -rf _site
 bundle init
 bundle update
-bundle exec jekyll build && htmlproofer ./_site
+bundle exec jekyll build --incremental && htmlproofer ./_site
 
